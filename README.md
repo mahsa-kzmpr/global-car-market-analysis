@@ -73,7 +73,7 @@ The report uses a single analytical table named `Cars`.
 
 The main DAX measures include:
 
-- `Total Listings`
+- `Total Vehicles`
 - `Total Brands`
 - `Average Price`
 - `Median Price`
@@ -90,9 +90,9 @@ Median price was selected as the main comparison measure because the price distr
 
 ## Dashboard Pages
 
-### 1. Vehicle Listings Overview
+### 1. Global Car Market Overview
 
-![Vehicle Listings Overview](images/global-market-overview.png)
+![Global Car Market Overview](images/global-market-overview.png)
 
 This page provides a high-level view of the dataset through:
 
