@@ -110,12 +110,12 @@ This page provides a high-level view of the dataset through:
 
 This page focuses on price differences across major brands and individual models:
 
-- Average listed price
-- Median listed price
+- Average price
+- Median price
 - Average engine power
 - Average mileage
-- Median-price comparison among the 10 most frequently listed brands
-- Top 10 vehicle models by median listed price
+- Median price by Top 10 Brands
+- Top 10 car models by median price
 - Interactive filters for brand and body type
 
 ### 3. Technical Factors and Price Trends
@@ -124,12 +124,12 @@ This page focuses on price differences across major brands and individual models
 
 This page evaluates price patterns in relation to registration year and vehicle size:
 
-- Average listed price
+- Average price
 - Average engine power
 - Average vehicle length in meters
 - Average wheelbase in meters
-- Median-price trend by registration year
-- Median price by vehicle-size category
+- Median car price trend by registration year
+- Median car price by vehicle size category
 - Interactive filters for brand and body type
 
 ## Key Findings
