@@ -96,13 +96,13 @@ Median price was selected as the main comparison measure because the price distr
 
 This page provides a high-level view of the dataset through:
 
-- Total listing count
-- Total number of brands
-- Median listed price
+- Total Vehicles
+- Total brands
+- Median price
 - Average mileage
-- Top 10 brands by number of listings
-- Listing distribution by reported brand-origin country
-- Interactive filters for brand and country
+- Top 10 brands by number of cars
+- Vehicle distribution by Manufacturing Country
+- Interactive filters for brand and manufacturing country
 
 ### 2. Price and Mileage Analysis
 
